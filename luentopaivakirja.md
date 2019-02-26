@@ -1,35 +1,41 @@
 ---
 layout: default
-title: Luentopäiväkirja / JODA 2018
-year: 2018
+title: Luentopäiväkirja / JODA 2019
+year: 2019
 ---
 
-Tämä on Johdanto datatieteeseen -opintojakson kevään 2018 toteutuskerran luentopäiväkirja.
+Tämä on Johdanto datatieteeseen -opintojakson kevään 2019 toteutuskerran luentopäiväkirja.
 <!-- Vastaisen varalle:
 Toteutus noudattelee [vuoden 2018 toteutuskertaa](https://jodatut.github.io/2018/luentopaivakirja).
 Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetään jatkuvasti.
 -->
-Toteutuskerta etenee karkean
+<!--Toteutuskerta etenee karkean
 [luentosuunnitelman](https://docs.google.com/document/d/1drHb2HtmFy_Nu5iVuCtqZV6C9OjsoGMQqDrvDhV7fIc/edit?usp=sharing)
-mukaisesti.
+mukaisesti.-->
+Luennot etenevät alla olevan ohjeellisen suunnitelman mukaisesti. Teemoihin voi tulla muutoksia ja mukautuvat sitä mukaan kun luentosarja etenee. Alla näkyvä pohja on vuoden 2018 toteutuksen mukainen.
 
 Totetutuskerran käytössä on
 [Slack-kanava](https://join.slack.com/t/jodatut/shared_invite/enQtMzQyNzE1NzgxNDQwLTIyNmE5OGQwYWIxMjc3MjU2MDU1Mzc0NTQ0OWE3OTg4Y2I5Y2E0MDkxYTAyZjQwNTJhYTFmZGJhNDdiNzMwOTg).
-Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/section/c9dd83a0-b703-47e7-82fe-545ff4644e75/public).
+<!--Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/section/c9dd83a0-b703-47e7-82fe-545ff4644e75/public).-->
 
-# Luentopäiväkirja
+<!-- # Luentopäiväkirja-->
 
-Kaikkien aikojen ensimmäinen Johdanto datatieteeseen -toteutuskerta on päättynyt.
+<!-- Kaikkien aikojen ensimmäinen Johdanto datatieteeseen -toteutuskerta on päättynyt.
 Katsasta seuraavaksi esimerkiksi opintojaksot [Data- ja informaatioanalytiikka](http://www.tut.fi/opinto-opas/wwwoppaat/opas2017-2018/perus/aineryhmat/Tiedonhallinta/TLO-35100.html) ja
 [Introduction to Pattern Recognition and Machine Learning](http://www.tut.fi/opinto-opas/wwwoppaat/opas2017-2018/kv/aineryhmat/Signaalinkasittely/SGN-13006.html).
+-->
 
-## Luentoviikko 4.6: Datan visualisointi
+## Luento 7 23.4: Kertaus
 
-Viimeisellä varsinaisella luentokerralla käydään läpi datan vuorovaikutteista eksploratiivista analytiikka ja luodaan tiekarttaa kohti datatuotteiden kehittämistä. Lue artikkeli [Designing and Developing Analytics-Based Data Products](https://sloanreview.mit.edu/article/designing-and-developing-analytics-based-data-products/) ja katso Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).
+Luentokerran tarkoituksena on kerrata aiemmin opittua ja käydä läpi esiin nousevia kysymyksiä
+
+## Luento 6 16.4: Datan visualisointi
+
+Luentokerralla käydään läpi datan vuorovaikutteista eksploratiivista analytiikka ja luodaan tiekarttaa kohti datatuotteiden kehittämistä. Lue artikkeli [Designing and Developing Analytics-Based Data Products](https://sloanreview.mit.edu/article/designing-and-developing-analytics-based-data-products/) ja katso Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).
 
 [Koodiklinikalla](https://jodatut.github.io/2018/Datan-visualisointi) päästään tekemään visualisointeja siihen tarkoitettujen kirjastojen avulla sekä luomaan yksinkertainen web-sovellus datan ympärille.
 
-## Luentoviikko 4.5: Ohjaamaton koneoppiminen
+## Luento 5 9.4: Ohjaamaton koneoppiminen
 
 Miten ohjattu ja ohjaamaton oppiminen eroavat toisistaan?
 Ohjaamaton oppiminen (ks. [Unsupervised learning workflow](https://goo.gl/images/dCm55z)),
@@ -40,7 +46,7 @@ aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-wi
 
 Koodiklinikalla tutustutaan [ryvästämiseen ostoskorianalyysin kautta](https://jodatut.github.io/2018/Ostoskorianalyysi).
 
-## Luentoviikko 4.4: Harjoitustyöhön tutustuminen
+## Luento 4 26.3: Harjoitustyöhön tutustuminen
 
 Lue ennen luentoa: [Predicting Airbnb Listing Prices with Scikit-Learn and Apache Spark](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/)
 
@@ -52,7 +58,7 @@ Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/b
 
 Koodiklinikalla [syvennytään lineaariregressioon](https://jodatut.github.io/2018/Kategoriset-muuttujat-ja-puuttuva-data).
 
-## Luentoviikko 4.3: Koneoppimisen periaatteet
+## Luento 3 19.3: Koneoppimisen periaatteet
 
 Lue ennen luentoa: [Näin laadullinen tieto jalostuu laskennalliseksi: piirteet sosiaalisen median analytiikassa](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/)
 
@@ -67,7 +73,7 @@ dataan tutustuminen käyntiin (ks.
 
 Koodiklinikalla [esimerkkejä lineaariregressiosta](https://jodatut.github.io/2018/Lineaariregressio).
 
-## Luentoviikko 4.2: Datan kerääminen ja jalostaminen
+## Luento 2 12.3: Datan kerääminen ja jalostaminen
 
 Datatiedeprosessin vaiheet ([Data Science Workflow](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)),
 kerääminen ja jalostaminen [datatieteen metrokartassa](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/),
@@ -90,9 +96,9 @@ Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://jodatut.github.i
 
 <!-- Toiseen teknologiademoon pääsee [tästä]. -->
 
-## Luentoviikko 4.1: Johdanto aihepiiriin ja suorittaminen
+## Luento 1 5.3: Johdanto aihepiiriin ja suorittaminen
 
-Avausluento maanantaina 5. maaliskuuta kello 14-16 Konetalon salissa K1320.
+Avausluento maanantaina 5. maaliskuuta kello 10-12 Konetalon salissa SJ204.
 Suorittamisen käytännöt.
 Mitä on datatiede
 ([CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining),
